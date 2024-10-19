@@ -1,0 +1,19 @@
+body{
+    background-image: url('freelancer.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+li{
+    list-style: none;
+    float: left;
+    list-style: none;
+   font-size: 25px;
+   padding: 8px;
+   font-style: oblique;
+   
+}
+ul{
+    float: inline-end;
+    
+}
